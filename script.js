@@ -1,1 +1,4 @@
-console.log("Hey this works!")
+function runOnPageLoadPlease() {
+    console.log("Hey this works!");
+};
+runOnPageLoadPlease();
